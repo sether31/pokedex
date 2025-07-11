@@ -1,0 +1,15 @@
+@layer base {
+  @font-face {
+    font-family: 'pokemon';
+    src: url('/assets/fonts/pokemon/Pokemon-solid.ttf');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'poppins';
+    src: url('/assets/fonts/poppins/Poppins-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+  }
+}

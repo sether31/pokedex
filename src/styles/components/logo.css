@@ -1,0 +1,5 @@
+@layer components{
+  .logo{
+    @apply mb-4 text-5xl font-extrabold tracking-wider text-center duration-300 cursor-pointer text-mainYellow hover:text-mainDarkBlue;
+  }
+}
